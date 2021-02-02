@@ -1,0 +1,2 @@
+This software was developed to demonstrate, in a visual way, the functioning of multiprocessing in Python. Recommended using process management tools, such as ProcessExplorer, to better visualize the behavior of processes in the system.
+The software creates multiples processes by spawning an client process, using Socket Python Module,  to processes the ball movement of each ball by demand. Therefore, creating multiples processes.
